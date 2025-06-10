@@ -1,3 +1,1 @@
-export default {
-    extends: ["./commitlint.base.js", "./commitlint.types.js"],
-  };
+"export default { extends: ['@commitlint/config-conventional'] };" 
